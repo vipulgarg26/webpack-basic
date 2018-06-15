@@ -1,0 +1,13 @@
+body {
+  background-color: orange; }
+  body #heading {
+    text-align: center;
+    color: white;
+    font-size: 40px; }
+  body p {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 25px; }
+
+/*# sourceMappingURL=app.bundle.css.map*/
